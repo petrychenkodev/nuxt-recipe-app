@@ -1,75 +1,27 @@
-# Nuxt Minimal Starter
+# Nuxt 3 Recipe App
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A modern recipe application built with **Nuxt 3**, **TailwindCSS**, and **TypeScript**.  
+This project is part of my portfolio and learning journey focused on real-world frontend architecture.
 
-## Setup
+---
 
-Make sure to install dependencies:
+## Features
 
-```bash
-# npm
-npm install
+- Nuxt 3 with Composition API
+- TailwindCSS for fast and responsive styling
+- TypeScript for type safety
+- Scalable folder structure
+- (Coming soon) Vitest + Cypress for testing
 
-# pnpm
-pnpm install
+---
 
-# yarn
-yarn install
+## 📦 Tech Stack
 
-# bun
-bun install
-```
+- [Nuxt 3](https://nuxt.com)
+- [TailwindCSS](https://tailwindcss.com)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Pinia](https://pinia.vuejs.org/) *(planned)*
 
-## Development Server
+---
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 📂 Project Structure
