@@ -5,7 +5,7 @@ This project is part of my portfolio and learning journey focused on real-world 
 
 ---
 
-## Features
+## 🚀 Features
 
 - Nuxt 3 with Composition API
 - TailwindCSS for fast and responsive styling
